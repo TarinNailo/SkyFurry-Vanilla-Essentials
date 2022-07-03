@@ -1,0 +1,5 @@
+/source/*
+!/source/downloads
+*.7z
+*.zip
+*.rar
